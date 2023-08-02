@@ -1,0 +1,5 @@
+git add
+git status
+git log
+git branch -b
+git --oneline
