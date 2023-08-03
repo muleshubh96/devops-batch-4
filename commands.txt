@@ -6,3 +6,6 @@ git --oneline
 git remote -v
 git branch
 git clone
+git pull
+git fetch
+git push
